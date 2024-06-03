@@ -2,7 +2,7 @@
 #include <string>
 
 template<class T>
-void swap(T& i, T&j)
+void swap(T& i, T& j)
 {
     T temp = i;
 
